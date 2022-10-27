@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @julqq
+- 👋 Hi, I’m Juliano Carvalho
 - 👀 I’m interested in web and automatizations
 - 🌱 I’m currently learning typescript
 - 📫 How to reach me? send me a message on instagram @juliano.c.p
